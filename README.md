@@ -1,4 +1,3 @@
-# MiteshPatel
 # Mitesh Patel
 **Software Developer | AI/ML Enthusiast | Python Developer**
 
